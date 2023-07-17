@@ -9,8 +9,8 @@ designs by adding text Prompt
 
 ## Getting Started
 
-First, download the code in zip:
-then, open terminal for client:
+First, download the code in zip
+#then, open terminal for client:
 ```bash
 npm run dev
 ```
