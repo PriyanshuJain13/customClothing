@@ -9,12 +9,12 @@ designs by adding text Prompt
 
 ## Getting Started
 
-First, run the development server:
-
+First, download the code in zip:
+then, open terminal for client:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+```
+then open terminal for server
+```bash
+npm start
 ```
