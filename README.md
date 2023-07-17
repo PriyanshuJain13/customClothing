@@ -10,11 +10,11 @@ designs by adding text Prompt
 ## Getting Started
 
 First, download the code in zip
-#then, open terminal for client:
+then, open terminal for client and type:
 ```bash
 npm run dev
 ```
-then open terminal for server
+then open terminal for server and type:
 ```bash
 npm start
 ```
